@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77349074240",
+    "project_id": "to-do-list-app-c2054",
+    "storage_bucket": "to-do-list-app-c2054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77349074240:android:709e3734f3fdcdc934b6a5",
+        "android_client_info": {
+          "package_name": "ketaki.mycompany.to_do_listapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77349074240-dem6000d1b5b3amlp8kdpcjkokckfoeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0Skjwwu_MNtXY48XpdU6-BRdrMy8CiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77349074240-dem6000d1b5b3amlp8kdpcjkokckfoeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

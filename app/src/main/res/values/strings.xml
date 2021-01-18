@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-Do-List App</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_task">Update task</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="delete_task">Delete task</string>
+    <string name="your_task">Your Task</string>
+
+</resources>
